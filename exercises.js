@@ -1,0 +1,3 @@
+// Map.prototype.deleteMany = function () {
+  
+// }
